@@ -3,7 +3,7 @@
 %               Mixed-Monotone Systems with Disturbances"
 % Publisher:    Control Systems Letters (L-CSS)
 % 
-% Description: This script generates Figures 2 and 3 in the paper. A tight
+% Description: This script generates Figure 2 in the paper. A tight
 %              decomposition functions is constructed for a dynaical 
 %              system, and this decomposition function is used to over and
 %              underapproxiamte a reachable set.
