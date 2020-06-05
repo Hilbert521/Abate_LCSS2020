@@ -6,7 +6,7 @@ Authors: Matthew Abate, Maxence Dutreix, and Samuel Coogan
 
 Publisher: IEEE Control Systems Letters
 
-Description: The two scripts in this repository generate Figures 1 2 and 3 in the paper.
+Description: The two scripts in this repository generate Figures 1 and 2 in the paper.
 
 Code Author: Matthew Abate
 
